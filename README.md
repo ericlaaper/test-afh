@@ -1,4 +1,4 @@
-# quick-scan noodplan -even iets meer
+# quick-scan noodplan -
 
 ## Project setup
 ```
